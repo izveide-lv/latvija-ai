@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Reklāma
-ogImageStyle: Emoji
-ogImage:
-  emoji: 💶
 ---
 
 ::center-hero

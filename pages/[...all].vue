@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { callWithNuxt } from '#app';
+import { callWithNuxt } from "#app";
 
 const config = useAppConfig();
 const app = useNuxtApp();
@@ -11,16 +11,18 @@ function getSEOTitle(): string {
 }
 
 function getSEODescription(): string {
-  return page?.value?.description || config.site.description || "Missing Description"
+  return (
+    page?.value?.description || config.site.description || "Missing Description"
+  );
 }
 
-callWithNuxt(app, useSeoMeta, [{ title: getSEOTitle(), description: getSEODescription() }]);
+callWithNuxt(app, useSeoMeta, [
+  { title: getSEOTitle(), description: getSEODescription() },
+]);
 
 if (page.value) {
   defineOgImage({
-    component: page.value.ogImageStyle || 'Custom',
-    cover: page.value.cover || page.value.card_image,
-    ...(page.value.ogImage || {}),
+    url: "/latvija.ai.webp",
   });
 }
 </script>

@@ -44,9 +44,7 @@ useSeoMeta({
 });
 
 defineOgImage({
-  component: "Custom",
-  title: title.value,
-  description: description.value,
+  url: "/latvija.ai.webp",
 });
 
 definePageMeta({

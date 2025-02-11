@@ -26,7 +26,7 @@ defineProps(["item"]);
       sizes="400px"
       :alt="`${item.title}`"
       class="w-full rounded-t object-cover"
-      lazy
+      loading="lazy"
       :src="item.card_image ?? '/logo.png'"
     />
     <div
@@ -39,7 +39,7 @@ defineProps(["item"]);
       <h3 class="m-0 text-lg font-semibold dark:text-gray-50">
         {{ item.title }}
       </h3>
-      <p class="line-clamp-4 mt-2 text-sm">
+      <p class="mt-2 text-sm">
         {{ item.description }}
       </p>
       <div class="p-0 mt-2 font-bold flex-wrap">

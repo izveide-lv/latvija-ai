@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Pievienoties
-ogImageStyle: Emoji
-ogImage:
-  emoji: ➕
+cover: /latvija.ai.webp
 ---
 
 # Iegūsti jaunus klientus, pievienojoties modernākajam mājaslapu katalogam

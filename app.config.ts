@@ -1,4 +1,4 @@
-import type Emoji from "./components/OgImage/Emoji.vue";
+// import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
@@ -15,13 +15,13 @@ export default defineAppConfig({
     url: "https://latvija.ai",
     favicon: {
       image: "",
-      emoji: "💯",
+      emoji: "❤️‍🩹",
     },
   },
   directory: {
     search: {
-      placeholder: "Meklēt starp {0} mājaslapām",
-      icon: "tabler:bow",
+      placeholder: "Meklē starp {0} mājaslapām",
+      icon: "tabler:search",
       tags: {
         // options: none,select,show-all,
         display: "show-all",

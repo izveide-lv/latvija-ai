@@ -11,14 +11,17 @@ const config = useAppConfig();
       class="h-8"
       :alt="`${config?.general.title} logo`"
     />
-    <Icon
+    <!-- <Icon
       v-else-if="config?.general?.iconLogo"
       class="w-7 h-7 text-gray-600 dark:text-white"
       :name="config?.general?.iconLogo"
-    />
+    /> -->
     <span
-      class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
-      >{{ config.general.title }}</span
+      class="self-center text-2xl font-extrabold whitespace-nowrap dark:text-white"
+      >Latvija
+      <span class="bg-primary-900 px-1 text-white shadow-md rounded-lg"
+        >AI</span
+      ></span
     >
   </NuxtLink>
 </template>

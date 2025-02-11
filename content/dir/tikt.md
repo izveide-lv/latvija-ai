@@ -6,6 +6,6 @@ url: https://tikt.lv
 card_image: /tikt.lv.webp
 ---
 
-# Tikt tiešsaistes pieraksti
+# Tiešsaistes pieraksti
 
 Elastīgs un pielāgojams kalendārs, kas ir piemērots pakalpojumu sniedzējiem
