@@ -13,14 +13,18 @@ const directoryListings = computed(() => {
   }
 
   if (search.value) {
-    filteredData = filteredData?.filter(e =>
-      (e.title?.toLowerCase() + e.description?.toLowerCase()).includes(search.value.toLowerCase())
+    filteredData = filteredData?.filter((e) =>
+      (
+        e.title?.toLowerCase() +
+        e.description?.toLowerCase() +
+        e.url?.toLowerCase()
+      ).includes(search.value.toLowerCase())
     );
   }
 
   if (tags.value.length > 0) {
-    filteredData = filteredData?.filter(e =>
-      tags.value.every(tag => e.tags?.includes(tag))
+    filteredData = filteredData?.filter((e) =>
+      tags.value.every((tag) => e.tags?.includes(tag))
     );
   }
 
@@ -29,6 +33,9 @@ const directoryListings = computed(() => {
 </script>
 
 <template>
-  <DirectoryPureGrid :listings="directoryListings ?? []" :show-submit="config?.submit?.show"
-    :submit-first="config?.submit?.first" />
+  <DirectoryPureGrid
+    :listings="directoryListings ?? []"
+    :show-submit="config?.submit?.show"
+    :submit-first="config?.submit?.first"
+  />
 </template>
