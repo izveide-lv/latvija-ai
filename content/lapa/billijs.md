@@ -6,6 +6,6 @@ url: https://billijs.lv
 card_image: /billijs.lv.webp
 ---
 
-# Bilijs Locs
+# Billijs Locs
 
 Komercfoto, kāzas, pāru un ģimenes fotogrāfēšana
