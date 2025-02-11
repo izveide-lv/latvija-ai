@@ -2,36 +2,36 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "Latvija.ai",
     logo: "",
-    iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
+    iconLogo: "fluent-emoji-flat:hundred-points",
   },
   site: {
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
-    description: "Example Description",
-    url: "https://example.com",
+    name: "",
+    description: "",
+    url: "https://latvija.ai",
     favicon: {
       image: "",
-      emoji: "🍃",
+      emoji: "💯",
     },
   },
   directory: {
     search: {
-      placeholder: "Search among {0} tools",
+      placeholder: "Meklēt starp {0} mājaslapām",
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
-        display: "select",
+        display: "show-all",
         intersection: false,
       },
     },
     grid: {
       list: false,
       emptyState: {
-        text: "Seems that this entry is missing from the archives.",
+        text: "Nekas netika atrasts.",
         // options: button, simple, link
         type: "button",
         icon: "tabler:exclamation-mark",
@@ -44,9 +44,9 @@ export default defineAppConfig({
       submit: {
         show: true,
         first: false,
-        title: "Submit a template",
+        title: "Pievienot mājaslapu",
         description:
-          "Submit a template to show off a good project to other people.",
+          "Pievieno katalogam arī savu mājaslapu — tas neko nemaksā!",
         hideable: true,
       },
     },
@@ -54,69 +54,69 @@ export default defineAppConfig({
       showOnAllPages: true,
       showOnSide: true,
       icon: "tabler:star",
-      labelForCard: "Featured ✨",
+      labelForCard: "💯",
     },
     tags: [
-      { name: "SAAS", color: "blue" },
-      { name: "dashboard", color: "green" },
-      { name: "landing-page" },
-      { name: "toolbox" },
-      { name: "agency" },
-      { name: "markdown-based" },
-      { name: "basics", color: "indigo" },
+      { name: "pakalpojumi", prettyName: "Pakalpojumi", color: "orange" },
+      { name: "profesionali", prettyName: "Profesionāļi", color: "teal" },
+      { name: "uznemumi", prettyName: "Uzņēmumi", color: "red" },
+      { name: "veikali", prettyName: "Veikali", color: "blue" },
+      { name: "blogi", prettyName: "Blogi", color: "green" },
+      { name: "riki", prettyName: "Rīki", color: "yellow" },
+      
     ],
     tagPages: {
-      title: "Available {0} products:",
+      title: "{0}",
       description:
-        "View all available tools and templates in the {0} category...",
+        "Apskati visas kategorijas {0} mājaslapas",
     },
   },
   header: {
     banner: {
       show: true,
-      text: "Create your own directory website in minutes.",
-      link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      text: "Iegūsti savas mājaslapas bezmaksas novērtējumu!",
+      link: "https://cep.izveide.lv",
+      brandText: "Noderīgi",
     },
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Directory", to: "/" },
-        { name: "Blog", to: "/blog" },
-        { name: "Advertise", to: "/advertise" },
+        { name: "Katalogs", to: "/" },
+        // { name: "Jaunumi", to: "/blog" },
+        { name: "Reklāma", to: "/reklama" },
         {
-          name: "Analytics",
-          to: "https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ",
+          name: "Statistika",
+          to: "https://stats.izveide.lv/share/bRVSIFNOk3q0Kk40/latvija.ai",
           target: "_blank",
         },
       ],
     },
     actionButton: {
-      text: "Submit a starter",
-      href: "/submit",
+      text: "Pievienoties",
+      href: "/pievienoties",
     },
   },
   footer: {
-    description: "Best directory for my niche.",
+    description: "Latvijas labāko mājaslapu katalogs.",
     socials: {
       github: {
-        link: "",
+        link: "https://github.com/izveide-lv/latvija-ai",
         icon: "tabler:brand-github",
       },
       facebook: {
-        link: "",
+        link: "https://facebook.com/labojam",
         icon: "tabler:brand-facebook",
       },
       instagram: {
-        link: "",
+        link: "https://instagram.com/labojam.lv",
         icon: "tabler:brand-instagram",
       },
       x: {
-        link: "https://x.com/mark_bruderer",
+        link: "https://x.com/labojam",
         icon: "tabler:brand-twitter",
       },
       youtube: {
-        link: "https://www.youtube.com/@mark_hacks",
+        link: "https://www.youtube.com/@SocialaisKods",
         icon: "tabler:brand-youtube",
       },
     },

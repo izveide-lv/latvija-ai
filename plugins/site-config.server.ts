@@ -8,8 +8,18 @@ export default defineNuxtPlugin({
       name: config.name ?? "",
       url: config.url ?? "",
       description: config.description ?? "",
-      defaultLocale: "en",
+      defaultLocale: "lv",
     });
+
+    useHead({
+      script: [
+        {
+          src: "https://stats.izveide.lv/script.js",
+          "data-website-id": "f112152c-060b-407a-a24a-2856b8a9c0a8",
+          defer: true,
+        }
+      ]
+    })
 
     if (config.favicon.emoji) {
       useHead({

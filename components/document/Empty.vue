@@ -1,10 +1,9 @@
 <template>
   <div>
-    <h1>This page has no content yet.</h1>
-    <p>We are working on the content on this page.</p>
+    <h1>Šai lapai vēl nav satura.</h1>
     <NuxtLink to="/">
       <Button class="flex gap-1 items-center font-medium">
-        Go Home
+        Doties uz sākumu
         <Icon name="tabler:home" />
       </Button>
     </NuxtLink>

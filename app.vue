@@ -1,11 +1,10 @@
 <script setup lang="ts">
 const { layout } = useContent();
 
-const layoutName = computed(() => layout.value || 'wide');
+const layoutName = computed(() => layout.value || "wide");
 </script>
 
 <template>
-
   <AppLayout>
     <NuxtLayout :name="layoutName">
       <NuxtPage class="page-enter-active" />
@@ -21,12 +20,12 @@ const layoutName = computed(() => layout.value || 'wide');
 @keyframes fadeInUp {
   from {
     opacity: 0;
-    transform: translateY(.5rem)
+    transform: translateY(0.5rem);
   }
 
   to {
     opacity: 1;
-    transform: none
+    transform: none;
   }
 }
 
@@ -37,15 +36,15 @@ const layoutName = computed(() => layout.value || 'wide');
 
   to {
     opacity: 0;
-    transform: translateY(.5rem)
+    transform: translateY(0.5rem);
   }
 }
 
 .page-enter-active {
-  animation: fadeInUp .6s forwards
+  animation: fadeInUp 0.6s forwards;
 }
 
 .page-leave-active {
-  animation: fadeOutDown .6s backwards;
+  animation: fadeOutDown 0.6s backwards;
 }
 </style>

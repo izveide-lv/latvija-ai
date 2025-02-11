@@ -8,10 +8,22 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        display: ["DM Sans"],
+        display: ["Onest"],
       },
       colors: {
-        primary: colors.sky,
+       primary: {
+          '50': '#fef2f2',
+          '100': '#fce9e7',
+          '200': '#f9d2d2',
+          '300': '#f4aead',
+          '400': '#ee7e80',
+          '500': '#e35057',
+          '600': '#ce3040',
+          '700': '#ae2233',
+          '800': '#9d2235',
+          '900': '#7d1e2f',
+          '950': '#450c15',
+        },
         secondary: colors.indigo,
         gray: colors.zinc,
       },

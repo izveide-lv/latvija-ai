@@ -10,7 +10,7 @@ const href = computed(() => {
   return "#";
 });
 
-const showBanner = useState('showBanner', () => true);
+const showBanner = useState("showBanner", () => true);
 
 function removeBanner() {
   showBanner.value = false;
@@ -18,12 +18,17 @@ function removeBanner() {
 </script>
 
 <template>
-  <div v-show="showBanner && bannerConfig?.show"
-    class="flex items-center justify-center gap-x-6 bg-primary-600 px-6 py-2.5 sm:px-3.5 sm:before:flex-1">
+  <div
+    v-show="showBanner && bannerConfig?.show"
+    class="flex items-center justify-center gap-x-6 bg-primary-600 px-6 py-2.5 sm:px-3.5 sm:before:flex-1"
+  >
     <p class="text-sm leading-6 text-white">
       <a :href="href" target="_blank" class="inline-flex items-center gap-1">
-        <strong v-if="bannerConfig?.brandText" class="font-semibold hidden sm:block">{{ bannerConfig.brandText
-          }}</strong>
+        <strong
+          v-if="bannerConfig?.brandText"
+          class="font-semibold hidden sm:block"
+          >{{ bannerConfig.brandText }}</strong
+        >
         <AppHeaderDot class="hidden sm:block" v-if="bannerConfig?.brandText" />
         {{ bannerConfig?.text }}
         <Icon class="hidden sm:block w-5 h-5" name="tabler:arrow-right" />
@@ -31,7 +36,7 @@ function removeBanner() {
     </p>
     <div class="hidden sm:flex flex-1 justify-end items-center">
       <button @click="removeBanner" type="button" class="w-5 h-5">
-        <span class="sr-only">Dismiss</span>
+        <span class="sr-only">Aizvērt</span>
         <Icon name="tabler:x" class="h-5 w-5 text-white" aria-hidden="true" />
       </button>
     </div>

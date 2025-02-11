@@ -5,17 +5,25 @@
 </template>
 
 <script setup lang="ts">
-import type { PropType } from 'vue'
+import type { PropType } from "vue";
 
 const props = defineProps({
   href: {
     type: String,
-    default: ''
+    default: "",
   },
   target: {
-    type: String as PropType<'_blank' | '_parent' | '_self' | '_top' | (string & object) | null | undefined>,
-    default: '_blank',
-    required: false
-  }
-})
+    type: String as PropType<
+      | "_blank"
+      | "_parent"
+      | "_self"
+      | "_top"
+      | (string & object)
+      | null
+      | undefined
+    >,
+    default: "_self",
+    required: false,
+  },
+});
 </script>

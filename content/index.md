@@ -2,22 +2,16 @@
 layout: wide
 ---
 
-# This is your brand new directory ! 👋
+# Latvijas mājaslapu katalogs
 
-You can customize this page in markdown.
-
-See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to customize your landing page.
-
-Get inspired by other directories:
-+ 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-+ 🏠 [FortyTwoTools](https://fortytwotools.com)
+Šeit atradīsi <a href="/tags/veikali">interneta veikalus</a>, <a href="/tags/pakalpojumi">pakalpojumus</a>, <a href="/tags/riki">rīkus</a>, <a href="/tags/blogi">blogus</a>, <a href="/tags/profesionali">profesionāļus</a> un <a href="/tags/uznemumi">uzņēmumus</a>, kas darbojas uz visiem 💯
 
 ---
-
-Here is your starting listings grid 👇
 
 ::search
 ::
 
 ::directory-grid
 ::
+
+:SponsorExample{title="Tiec pie bezmaksas mājaslapas!" description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim." url="https://izveide.lv/bezmaksas"}
