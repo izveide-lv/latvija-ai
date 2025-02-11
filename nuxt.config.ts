@@ -44,15 +44,22 @@ export default defineNuxtConfig({
       },
     },
   },
+  build: {
+    transpile: ['unenv'],
+  },
   nitro: {
     prerender: {
       failOnError: false,
       crawlLinks: true,
       routes: ["/", "/sitemap.xml"],
     },
+    
+  },
+  experimental: {
+    payloadExtraction: false
   },
   site: {
-    url: "https://example.com",
+    url: "https://latvija.ai",
   },
-  compatibilityDate: "2024-09-20",
+  compatibilityDate: "2025-02-11",
 });
