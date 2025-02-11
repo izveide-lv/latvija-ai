@@ -19,7 +19,7 @@ const description = computed(() =>
 const tags = useAppConfig().directory.tags as Tag[] | undefined;
 
 const { data } = await useAsyncData(`tag-${route.params.slug}`, () =>
-  queryContent("/dir")
+  queryContent("/lapa")
     .where({
       $and: [
         { _extension: "md" },

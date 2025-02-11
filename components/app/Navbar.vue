@@ -36,7 +36,7 @@ const routesRef = computed(() => {
         <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
           <!-- Mobile menu button -->
           <DisclosureButton
-            class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-primary-500"
+            class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400"
           >
             <span class="absolute -inset-0.5" />
             <span class="sr-only">Atvērt izvēlni</span>
@@ -68,8 +68,8 @@ const routesRef = computed(() => {
                 class="inline-flex gap-2 items-center border-b-2 px-1 pt-1 text-sm font-medium"
                 :class="
                   navItem.active
-                    ? 'border-primary-900 text-gray-900 dark:text-gray-50'
-                    : 'border-transparent hover:border-gray-300 dark:hover:border-gray-500 hover:text-gray-700 text-gray-500 dark:text-gray-200'
+                    ? 'border-primary-900 text-gray-900 dark:text-white'
+                    : 'border-transparent hover:border-gray-300 dark:hover:border-gray-500 hover:text-gray-700 text-gray-900 dark:text-gray-400'
                 "
               >
                 {{ navItem.name }}
@@ -78,7 +78,7 @@ const routesRef = computed(() => {
                 v-else
                 :href="navItem.to"
                 target="_blank"
-                class="inline-flex gap-2 items-center border-b-2 px-1 pt-1 text-sm font-medium border-transparent hover:border-gray-300 hover:text-gray-700 dark:hover:border-gray-500 text-gray-500 dark:text-gray-200"
+                class="inline-flex gap-2 items-center border-b-2 px-1 pt-1 text-sm font-medium border-transparent hover:border-gray-300 hover:text-gray-700 dark:hover:border-gray-500 text-gray-900 dark:text-gray-300"
               >
                 {{ navItem.name }}
                 <Icon
@@ -119,8 +119,8 @@ const routesRef = computed(() => {
           class="block border-l-4 py-2 pl-3 pr-4 text-base font-medium"
           :class="
             item.active
-              ? 'bg-primary-50 border-primary-500 text-primary-700'
-              : 'border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700'
+              ? 'bg-gray-100 dark:bg-gray-200 border-primary-900 text-primary-900'
+              : 'border-transparent text-gray-900 dark:text-gray-300 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700'
           "
         >
           {{ item.name }}
@@ -128,11 +128,11 @@ const routesRef = computed(() => {
         </DisclosureButton>
       </div>
 
-      <div class="border-t border-gray-200 pb-3 pt-4">
+      <div class="border-t border-gray-500 pb-3 pt-4">
         <div class="flex items-center px-4">
           <NuxtLink
             :to="config?.actionButton?.href"
-            class="text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-4 py-2 text-center dark:bg-primary-900 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+            class="text-white bg-primary-900 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-4 py-2 text-center dark:bg-primary-900 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
           >
             {{ config?.actionButton?.text }}
           </NuxtLink>

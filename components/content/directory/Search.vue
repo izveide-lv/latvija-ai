@@ -11,7 +11,7 @@ const searchPlaceholder = await getSearchPlaceholder();
 async function getSearchPlaceholder() {
   if (searchConfig?.placeholder && searchConfig.placeholder.includes("{0}")) {
     const { data: count } = await useAsyncData("content-count", () =>
-      queryContent("/dir").where({ _extension: "md" }).count()
+      queryContent("/lapa").where({ _extension: "md" }).count()
     );
     return formatString(
       searchConfig?.placeholder ?? "Search among {0} listings",
