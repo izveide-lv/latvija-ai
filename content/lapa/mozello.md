@@ -9,4 +9,4 @@ card_image: /mozello.lv.webp
 
 # Mozello mājaslapu veidotājs
 
-Izveido savu mājas lapu vai e-veikalu jau šodien, bez maksas
+Mājas lapu un e-veikalu izveides rīks

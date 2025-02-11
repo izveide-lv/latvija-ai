@@ -7,4 +7,4 @@ card_image: /lieks.lv.webp
 
 # Personīgie sludinājumi
 
-🛒 Atbrīvojies no liekajām lietām, publicējot sludinājumus bez maksas
+Atbrīvojies no liekajām lietām, publicējot bezmaksas sludinājumus

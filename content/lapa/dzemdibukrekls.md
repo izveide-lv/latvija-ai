@@ -8,4 +8,4 @@ card_image: /dzemdibukrekls.lv.webp
 
 # Dzemdību krekls
 
-Dzemdību krekls Tavai īpašajai dienai!
+Apģērbs Tavai īpašajai dienai

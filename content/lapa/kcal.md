@@ -7,4 +7,4 @@ card_image: /kcal.lv.webp
 
 # Ēdienu plānotājs
 
-Automātiski ģenerē receptes pēc savām vēlmēm katrai dienai
+Ģenerē receptes automātiski pēc savām vēlmēm katrai dienai

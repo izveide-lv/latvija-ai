@@ -8,4 +8,4 @@ card_image: /robertsbooks.lv.webp
 
 # Robert's Books
 
-Veikals lietotām grāmatām angļu valodā
+Lietotas grāmatas angļu valodā

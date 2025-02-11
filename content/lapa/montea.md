@@ -8,4 +8,4 @@ card_image: /montea.lv.webp
 
 # Montea apdrošināšana
 
-Jēgpilna dzīvīas un risku apdrošināšana
+Jēgpilna dzīvības un risku apdrošināšana

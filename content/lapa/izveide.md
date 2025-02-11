@@ -11,4 +11,4 @@ card_image: /izveide.lv.webp
 
 # Mājaslapu izveide
 
-⚡ Ātru un drošu mājaslapu izveide. Iespēja pieteikties bezmaksas mājaslapai
+Ātru un drošu statisko mājaslapu izveide. Iespēja pieteikties bezmaksas izstrādei līdz 28. februārim

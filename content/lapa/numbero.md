@@ -8,4 +8,4 @@ card_image: /numbero.app.webp
 
 # Numbero rēķinu platforma
 
-Vienkāršota rēķinu izrakstīšana tiešsaistē no jebkuras ierīces vai caur mobilo aplikāciju
+Vienkāršota rēķinu izrakstīšana tiešsaistē no jebkuras ierīces

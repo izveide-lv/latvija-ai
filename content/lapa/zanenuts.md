@@ -9,4 +9,4 @@ card_image: /zanenuts.com.webp
 
 # Zane Nuts
 
-Grāmatas, kas ieprieicna un pasauli dara labāku
+Grāmatas, kas iepriecina un pasauli dara labāku

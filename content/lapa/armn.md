@@ -9,4 +9,4 @@ card_image: /armn.me.webp
 
 # Armands Leimanis
 
-Mājaslapu izstrādātājs & mūziķis ar vairāk nekā 10 gadu pieredzi
+Mājaslapu izstrādātājs ar vairāk nekā 10 gadu pieredzi

@@ -8,4 +8,4 @@ card_image: /octaok.lv.webp
 
 # octaOK
 
-Tava OCTA polise pāris minūšu laikā
+OCTA polise pāris minūšu laikā

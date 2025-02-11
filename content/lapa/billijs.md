@@ -8,4 +8,4 @@ card_image: /billijs.lv.webp
 
 # Billijs Locs
 
-Komercfoto, kāzas, pāru un ģimenes fotogrāfēšana
+Komercfoto, kāzas, pāru un ģimeņu fotogrāfēšana

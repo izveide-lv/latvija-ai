@@ -8,4 +8,4 @@ card_image: /indexo.lv.webp
 
 # Indexo banka
 
-Nenozodz sev naudu, pelnot ar katru eiro
+Nenozodz sev naudu un pelni ar katru eiro
