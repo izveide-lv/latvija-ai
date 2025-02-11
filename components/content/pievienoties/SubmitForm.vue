@@ -8,7 +8,7 @@ const submit = (e) => {
   e.preventDefault(); // Prevent page from reloading.
   if (url.value && email.value && !medus.value) {
     console.log(url.value, email.value, description.value, medus.value);
-    fetch("https://f6afa.twidget.io/latvijaai", {
+    fetch("https://api.izveide.lv/latvijaai", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
