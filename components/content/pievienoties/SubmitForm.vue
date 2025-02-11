@@ -128,7 +128,7 @@ const submit = (e) => {
       </div>
       <input type="text" class="hidden" v-model="medus" />
       <button
-        class="w-full mt-2 shadow-md text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-md px-4 py-2 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+        class="w-full transition-all mt-2 shadow-md text-white bg-primary-900 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-md px-4 py-2 text-center dark:bg-primary-900 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
         @click="submit"
         data-umami-event="Signup"
       >
