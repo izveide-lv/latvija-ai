@@ -39,7 +39,7 @@ const navigation = [
   {
     title: "Informācija",
     links: [
-      // { title: "Lietošanas noteikumi", link: "/legal/lietosanas-noteikumi" },
+      { title: "Blogs", link: "https://blog.latvija.ai" },
       { title: "Privātuma politika", link: "/legal/privatuma-politika" },
     ],
   },
