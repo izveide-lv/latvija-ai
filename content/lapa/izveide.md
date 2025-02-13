@@ -2,7 +2,6 @@
 featured: true
 tags:
   - pakalpojumi
-  - profesionali
   - uznemumi
   - blogi
   - populari

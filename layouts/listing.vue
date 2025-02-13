@@ -45,16 +45,30 @@ const { data: featured } = await useFeatured();
         :src="page.card_image ?? '/logo.png'"
       />
     </a>
-    <div class="grid grid-cols-1 lg:grid-cols-10 lg:gap-8 py-10">
-      <!-- <div
+
+    <div class="max-w-3xl mt-8 mx-auto">
+      <NuxtLink
+        class="pt-12 mt-4 text-md dark:text-white text-gray-900 hover:underline transition-all"
+        to="/"
+        >← Atgriezties uz sākumu</NuxtLink
+      >
+
+      <SponsorExample
+        title="Tiec pie bezmaksas mājaslapas!"
+        description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim."
+        url="https://izveide.lv/bezmaksas"
+      ></SponsorExample>
+    </div>
+    <!-- <div class="grid grid-cols-1 lg:gap-8 py-10"> -->
+    <!-- <div
           class="max-w-prose px-5 lg:col-start-3 lg:px-0 2xl:col-start-4 col-span-4"
         >
           <DocumentProse> <slot /> </DocumentProse>
         </div> -->
-
+    <!-- 
       <div
         v-if="config.directory.featured?.showOnAllPages"
-        class="col-span-1 lg:col-span-4 2xl:col-span-3 order-last lg:mr-20 mx-5 lg:mx-0"
+        class="col-span-2 order-last lg:mr-20 mx-5 lg:mx-0"
       >
         <DirectoryFeaturedRecommendation
           v-if="
@@ -65,6 +79,6 @@ const { data: featured } = await useFeatured();
           :to="featured?._path"
         />
       </div>
-    </div>
+    </div> -->
   </div>
 </template>

@@ -35,6 +35,7 @@ const navigation = [
         title: "Mājaslapu novērtēšana",
         link: "https://cep.izveide.lv",
       },
+      { title: "Darba sludinājumi", link: "https://darbs.latvija.ai" },
     ],
   },
   {
