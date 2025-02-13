@@ -42,7 +42,7 @@ const searchInput = useKeyFocus();
         <input
           v-model="search"
           ref="searchInput"
-          class="block w-full shadow-md rounded-md py-1.5 border-0 text-gray-900 ring-1 placeholder:text-gray-400 sm:text-sm sm:leading-6 dark:bg-gray-700 dark:text-gray-200 dark:placeholder:text-gray-400"
+          class="block w-full shadow-md rounded-md py-1.5 ring-1 dark:ring-gray-500 ring-gray-300 dark:focus:ring-primary-400 focus:ring-primary-900 border-0 text-gray-900 placeholder:text-gray-400 sm:text-sm sm:leading-6 dark:bg-gray-700 dark:text-gray-200 dark:placeholder:text-gray-400"
           :class="searchConfig?.icon ? 'pl-10' : ''"
           :placeholder="searchPlaceholder"
         />

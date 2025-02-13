@@ -8,6 +8,7 @@ const { data } = await useDirectory();
 
 const directoryListings = computed(() => {
   let filteredData = data.value;
+
   if (!filteredData) {
     return [];
   }
@@ -29,6 +30,12 @@ const directoryListings = computed(() => {
   }
 
   return filteredData;
+
+  // @TODO: Random sort
+  // .filter((i) => !i.featured)
+  // .map((value) => ({ value, sort: Math.random() }))
+  // .sort((a, b) => a.sort - b.sort)
+  // .map(({ value }) => value);
 });
 </script>
 

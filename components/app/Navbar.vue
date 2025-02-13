@@ -78,7 +78,7 @@ const routesRef = computed(() => {
                 v-else
                 :href="navItem.to"
                 target="_blank"
-                class="inline-flex gap-2 items-center border-b-2 px-1 pt-1 text-sm font-medium border-transparent hover:border-gray-300 hover:text-gray-700 dark:hover:border-gray-500 text-gray-900 dark:text-gray-300"
+                class="inline-flex gap-2 items-center border-b-2 px-1 pt-1 text-sm font-medium border-transparent hover:border-gray-300 hover:text-gray-700 dark:hover:border-gray-500 text-gray-900 dark:text-gray-400"
               >
                 {{ navItem.name }}
                 <Icon

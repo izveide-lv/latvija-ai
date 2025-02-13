@@ -1,6 +1,7 @@
 ---
 tags:
   - riki
+  - populari
 url: https://kcal.lv
 card_image: /kcal.lv.webp
 ---

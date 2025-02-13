@@ -17,12 +17,11 @@ defineProps({
 
 <template>
   <div
-    class="not-prose grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4"
-    :class="listView ? '' : 'lg:grid-cols-4 '"
+    class="not-prose grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4"
   >
     <DirectoryEmptyQueryIndicator v-if="listings?.length === 0" />
     <DirectorySubmitBox v-if="showSubmit && submitFirst" />
-    <UiCard v-for="i in listings" :item="i" />
+    <UiCard v-for="(listing, index) in listings" :item="listing" :key="index" />
     <DirectorySubmitBox v-if="showSubmit && !submitFirst" />
   </div>
 </template>

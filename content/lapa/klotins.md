@@ -8,4 +8,4 @@ card_image: /klotins.lv.webp
 
 # Raivo Klotiņš
 
-Zvērināts advokāts, kurš specializējas aizdomās turēto un apsūdzēto aizstāvībā kriminālprocesos
+Zvērināts advokāts, kurš specializējas kriminālprocesos

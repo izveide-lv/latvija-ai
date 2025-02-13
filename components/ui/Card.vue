@@ -25,26 +25,26 @@ defineProps(["item"]);
       v-if="item.card_image"
       sizes="400px"
       :alt="`${item.title}`"
-      class="w-full rounded-t object-cover"
+      class="w-full object-cover rounded-t h-44 shadow-md object-left-top"
       loading="lazy"
       :src="item.card_image ?? '/logo.png'"
     />
-    <div
+    <!-- <div
       v-else
       class="w-full h-48 flex justify-center items-center rounded-t font-bold text-2xl bg-gray-200 dark:bg-gray-600"
     >
       {{ item.title }}
-    </div>
-    <div class="p-6">
+    </div> -->
+    <div class="p-6 flex flex-col">
       <h3 class="m-0 text-lg font-semibold dark:text-gray-50">
         {{ item.title }}
       </h3>
+      <h4 class="p-0 mt-auto font-bold truncate">
+        {{ item.url?.replace("https://", "").replace("http://", "") }}
+      </h4>
       <p class="mt-2 text-sm">
         {{ item.description }}
       </p>
-      <div class="p-0 mt-2 font-bold flex-wrap">
-        {{ item.url.replace("https://", "").replace("http://", "") }}
-      </div>
     </div>
   </a>
   <NuxtLink v-else :to="item._path">

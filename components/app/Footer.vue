@@ -13,6 +13,7 @@ const navigation = [
     title: "Katalogs",
     links: [
       { title: "Pievienoties", link: "/pievienoties" },
+      { title: "Jaunumi", link: "/jaunumi" },
       { title: "Reklāma", link: "/reklama" },
     ],
   },
@@ -26,7 +27,7 @@ const navigation = [
       })),
   },
   {
-    title: "Partneri",
+    title: "Noderīgi",
     links: [
       { title: "Mājaslapu izveide", link: "https://izveide.lv" },
       { title: "Mājaslapu labošana", link: "https://labojam.lv" },
@@ -39,8 +40,8 @@ const navigation = [
   {
     title: "Informācija",
     links: [
-      { title: "Blogs", link: "https://blog.latvija.ai" },
       { title: "Privātuma politika", link: "/legal/privatuma-politika" },
+      { title: "Blogs", link: "https://blog.latvija.ai" },
     ],
   },
 ];

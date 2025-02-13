@@ -34,7 +34,7 @@ export default defineAppConfig({
         text: "Nekas netika atrasts.",
         // options: button, simple, link
         type: "button",
-        icon: "tabler:exclamation-mark",
+        icon: "tabler:zoom-exclamation",
       },
       card: {
         image: true,
@@ -46,7 +46,7 @@ export default defineAppConfig({
         first: false,
         title: "Pievienot mājaslapu",
         description:
-          "Pievieno katalogam arī savu mājaslapu — tas neko nemaksā!",
+          "Pievieno katalogam arī savu mājaslapu — tas ir bez maksas!",
         hideable: true,
       },
     },
@@ -57,12 +57,14 @@ export default defineAppConfig({
       labelForCard: "💯",
     },
     tags: [
-      { name: "pakalpojumi", prettyName: "Pakalpojumi", color: "orange" },
-      { name: "profesionali", prettyName: "Profesionāļi", color: "teal" },
-      { name: "uznemumi", prettyName: "Uzņēmumi", color: "red" },
-      { name: "veikali", prettyName: "Veikali", color: "blue" },
-      { name: "blogi", prettyName: "Blogi", color: "green" },
-      { name: "riki", prettyName: "Rīki", color: "yellow" },
+      { name: "populari", prettyName: "⚡ Populāri", color: "orange" },
+      { name: "jaunumi", prettyName: "🆕 Jaunumi", color: "orange" },
+      { name: "pakalpojumi", prettyName: "🤝 Pakalpojumi", color: "orange" },
+      { name: "profesionali", prettyName: "👨‍🔬 Profesionāļi", color: "teal" },
+      { name: "uznemumi", prettyName: "🏢 Uzņēmumi", color: "red" },
+      { name: "veikali", prettyName: "🛒 Veikali", color: "blue" },
+      { name: "blogi", prettyName: "📃 Blogi", color: "green" },
+      { name: "riki", prettyName: "🧰 Rīki", color: "yellow" },
       
     ],
     tagPages: {
@@ -82,7 +84,7 @@ export default defineAppConfig({
       colorModeSelector: true,
       links: [
         { name: "Katalogs", to: "/" },
-        // { name: "Jaunumi", to: "/blog" },
+        { name: "Jaunumi", to: "/jaunumi" },
         { name: "Reklāma", to: "/reklama" },
         {
           name: "Statistika",
