@@ -2,7 +2,6 @@
 tags:
   - profesionali
   - pakalpojumi
-  - jaunumi
 url: https://julijabokova.lv
 card_image: /julijabokova.lv.webp
 ---

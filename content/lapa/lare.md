@@ -1,10 +1,9 @@
 ---
 tags:
   - veikali
-  - jaunumi
   - profesionali
   - pakalpojumi
-url: http://lare.lv
+url: https://lare.lv
 card_image: /lare.lv.webp
 ---
 

@@ -2,7 +2,6 @@
 tags:
   - veikali
   - uznemumi
-  - jaunumi
 url: https://homehube.com
 card_image: /homehube.com.webp
 ---

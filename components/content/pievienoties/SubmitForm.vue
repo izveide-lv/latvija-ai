@@ -69,7 +69,7 @@ const submit = (e) => {
           class="rounded-lg shadow-md bg-gray-100 border text-black text-sm w-full pl-10 pr-4"
           type="email"
           name="e-pasts"
-          placeholder="Tavs e-pasts"
+          placeholder="Tavs e-pasts (obligāts)"
           required="true"
           v-model="email"
         />
@@ -112,7 +112,7 @@ const submit = (e) => {
           class="rounded-lg shadow-md bg-gray-100 border border-gray-600 text-black text-sm w-full pl-10 pr-4"
           type="text"
           name="url"
-          placeholder="Mājaslapas adrese"
+          placeholder="Mājaslapas adrese (obligāta)"
           required="true"
           v-model="url"
         />

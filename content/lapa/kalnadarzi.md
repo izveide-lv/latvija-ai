@@ -2,7 +2,6 @@
 tags:
   - veikali
   - uznemumi
-  - jaunumi
 url: https://kalnadarzi.lv
 card_image: /kalnadarzi.lv.webp
 ---

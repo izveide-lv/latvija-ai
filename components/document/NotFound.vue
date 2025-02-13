@@ -13,12 +13,21 @@
       Lapa nav atrasta
     </h1>
     <p class="mt-6 text-base leading-7 text-gray-600 dark:text-gray-200">
-      Diemžēl pieprasītā lapa netika atrasta
+      Pieprasītā lapa netika atrasta, taču, iespējams, tā atrodas
+      <a
+        class="font-semibold underline"
+        href="https://blog.latvija.ai"
+        target="_blank"
+        >Latvija.ai blogā</a
+      >.
     </p>
     <div class="mt-10">
-      <NuxtLink to="/">
+      <NuxtLink to="/" class="mr-2">
         <UiButton>Doties uz sākumu</UiButton>
       </NuxtLink>
+      <a href="https://blog.latvija.ai" target="_blank">
+        <UiButton>Doties uz blogu</UiButton>
+      </a>
     </div>
   </div>
 </template>

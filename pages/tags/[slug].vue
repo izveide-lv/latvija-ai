@@ -39,8 +39,8 @@ const getPrettyTagName = (name: string) => {
 const app = useNuxtApp();
 
 useSeoMeta({
-  title: "Latvija.ai" || "Missing Title",
-  description: description.value || "Missing Description",
+  title: "Latvija.ai" || "",
+  description: description.value || "",
 });
 
 defineOgImage({

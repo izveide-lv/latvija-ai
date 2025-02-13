@@ -2,7 +2,6 @@
 tags:
   - blogi
   - pakalpojumi
-  - jaunumi
   - uznemumi
 url: https://edgeoptic.com
 card_image: /edgeoptic.com.webp

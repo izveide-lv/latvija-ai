@@ -1,7 +1,6 @@
 ---
 tags:
   - riki
-  - jaunumi
 url: https://minicenu.lv
 card_image: /minicenu.lv.webp
 ---

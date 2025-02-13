@@ -2,7 +2,6 @@
 tags:
   - uznemumi
   - veikali
-  - jaunumi
 url: https://mazaspedas.lv
 card_image: /mazaspedas.lv.webp
 ---

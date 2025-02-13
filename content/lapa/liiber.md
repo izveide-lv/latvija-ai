@@ -2,7 +2,6 @@
 tags:
   - veikali
   - uznemumi
-  - populari
 url: https://liiber.eu
 card_image: /liiber.eu.webp
 ---

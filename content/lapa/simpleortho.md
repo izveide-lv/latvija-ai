@@ -2,7 +2,6 @@
 tags:
   - uznemumi
   - veikali
-  - jaunumi
 url: https://simpleortho.lv
 card_image: /simpleortho.lv.webp
 ---

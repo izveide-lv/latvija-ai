@@ -2,7 +2,6 @@
 tags:
   - veikali
   - uznemumi
-  - jaunumi
 url: https://twinauto.lv
 card_image: /twinauto.lv.webp
 ---

@@ -2,7 +2,6 @@
 tags:
   - blogi
   - pakalpojumi
-  - jaunumi
 url: https://buvesnakotnei.lv
 card_image: /buvesnakotnei.lv.webp
 ---

@@ -2,7 +2,6 @@
 tags:
   - uznemumi
   - veikali
-  - jaunumi
 url: https://blckshop.lv
 card_image: /blckshop.lv.webp
 ---

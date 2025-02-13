@@ -2,7 +2,6 @@
 tags:
   - uznemumi
   - pakalpojumi
-  - jaunumi
 url: https://atrakcijuagentura.lv
 card_image: /atrakcijuagentura.lv.webp
 ---

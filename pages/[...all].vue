@@ -7,13 +7,11 @@ const app = useNuxtApp();
 const { page, layout } = useContent();
 
 function getSEOTitle(): string {
-  return page?.value?.title || config?.site?.name || "Missing Title";
+  return page?.value?.title || config?.site?.name || "";
 }
 
 function getSEODescription(): string {
-  return (
-    page?.value?.description || config.site.description || "Missing Description"
-  );
+  return page?.value?.description || config.site.description || "";
 }
 
 callWithNuxt(app, useSeoMeta, [
