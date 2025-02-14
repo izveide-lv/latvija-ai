@@ -1,5 +1,4 @@
 ---
-featured: true
 tags:
   - pakalpojumi
   - uznemumi

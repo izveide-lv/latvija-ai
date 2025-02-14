@@ -29,6 +29,7 @@ const navigation = [
   {
     title: "Noderīgi",
     links: [
+      { title: "Labākie piedāvājumi", link: "https://omnis.lv" },
       { title: "Mājaslapu izveide", link: "https://izveide.lv" },
       { title: "Mājaslapu labošana", link: "https://labojam.lv" },
       {
@@ -122,8 +123,8 @@ const navigation = [
           <a href="https://labojam.lv" class="font-semibold" target="_blank"
             >Sociālais kods</a
           >. E-pasts:
-          <a href="mailto:latvija@labojam.lv" class="font-semibold"
-            >latvija@labojam.lv</a
+          <a href="mailto:latvija@latvija.ai" class="font-semibold"
+            >latvija@latvija.ai</a
           >
         </p>
         <p class="text-xs leading-5 text-gray-500"></p>

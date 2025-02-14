@@ -20,7 +20,7 @@ Par **dinamisku cenu\***, kas šobrīd ir **10€/mēnesī**, iespējams iegūt 
 
 #### Spēkā esošie izcēlumi
 
-1. [Izveide](/lapa/izveide) — **bezmaksas izcēlums**, projekta autora mājaslapa
+1. [Omnis](/lapa/omnis) — **bezmaksas izcēlums**, projekta autora mājaslapa
 2. 10€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
 
 :FeatureExample

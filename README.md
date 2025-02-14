@@ -12,4 +12,4 @@
 
 Projekta autors ir [Armands Leimanis](https://armn.me).
 Lapu veido un uztur SIA "Sociālais kods".
-E-pasts saziņai: [latvija@labojam.lv](mailto:latvija@labojam.lv)
+E-pasts saziņai: [latvija@latvija.ai](mailto:latvija@latvija.ai)

@@ -20,7 +20,7 @@ defineProps(["item"]);
         : ''
     "
   >
-    <DirectoryFeaturedTag class="ml-6" v-if="item.featured" />
+    <DirectoryFeaturedTag class="" v-if="item.featured" />
     <NuxtImg
       v-if="item.card_image"
       sizes="400px"

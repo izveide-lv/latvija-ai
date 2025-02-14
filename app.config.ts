@@ -79,9 +79,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Iegūsti savas mājaslapas bezmaksas novērtējumu!",
-      link: "https://cep.izveide.lv",
-      brandText: "Noderīgi",
+      text: "Piesakies labāko piedāvājumu saņemšanai e-pastā!",
+      link: "https://omnis.lv",
+      brandText: "Jaunums",
     },
     navbar: {
       colorModeSelector: true,
