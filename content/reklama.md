@@ -21,17 +21,17 @@ Par **dinamisku cenu\***, kas šobrīd ir **10€/mēnesī**, iespējams iegūt 
 #### Spēkā esošie izcēlumi
 
 1. [Izveide](/lapa/izveide) — **bezmaksas izcēlums**, projekta autora mājaslapa
-2. 10€/mēnesī — **pieejams**. To var iegūt, rakstot uz [latvija@labojam.lv](mailto:latvija@labojam.lv)
+2. 10€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU)
 
 :FeatureExample
 
 ## Sadarbības
 
-Izcēlumu iespējams iegūt arī **bez maksas**, ja apmeklētājiem no **Latvija.ai** tiek piedāvāti kādi īpaši nosacījumi, piemēram, **atlaides**, **bezmaksas produkts** vai **izmēģinājuma periods**. Lai vienotos par sadarbību, sūtiet piedāvājuma aprakstu uz [latvija@labojam.lv](mailto:latvija@labojam.lv)
+Izcēlumu iespējams iegūt arī **bez maksas**, ja apmeklētājiem no **Latvija.ai** tiek piedāvāti kādi īpaši nosacījumi, piemēram, **atlaides**, **bezmaksas produkts** vai **izmēģinājuma periods**. Lai vienotos par sadarbību, [aizpildiet pieteikuma formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU)
 
 ## Reklāmkarogs
 
-**Atsevišķi vienojoties** par cenu un rādīšanas ilgumu, ir iespējams iegūt reklāmas vietu ar **redzamību visās lapās**. E-pasts paliek nemainīgs — [latvija@labojam.lv](mailto:latvija@labojam.lv)
+**Atsevišķi vienojoties** par cenu un rādīšanas ilgumu, ir iespējams iegūt reklāmas vietu ar **redzamību visās lapās**. [Pieteikšanās caur formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU)
 
 :SponsorExample{title="Tiec pie bezmaksas mājaslapas!" description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim." url="https://izveide.lv/bezmaksas"}
 
