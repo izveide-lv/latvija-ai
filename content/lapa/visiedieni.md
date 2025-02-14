@@ -1,7 +1,7 @@
 ---
 tags:
   - blogi
-  - jaunumi
+
 url: https://visiedieni.lv
 card_image: /visiedieni.lv.webp
 ---

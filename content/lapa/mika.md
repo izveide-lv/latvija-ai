@@ -1,7 +1,7 @@
 ---
 tags:
   - profesionali
-  - jaunumi
+
   - pakalpojumi
 url: https://mika.lv
 card_image: /mika.lv.webp

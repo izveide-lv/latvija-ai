@@ -1,7 +1,7 @@
 ---
 tags:
   - veikali
-  - jaunumi
+
 url: https://numuri.eu
 card_image: /numuri.eu.webp
 ---

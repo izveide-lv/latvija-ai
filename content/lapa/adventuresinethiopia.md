@@ -1,6 +1,7 @@
 ---
 tags:
   - blogi
+  - populari
 url: https://adventuresinethiopia.eu
 card_image: /adventuresinethiopia.eu.webp
 ---

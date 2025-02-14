@@ -2,7 +2,7 @@
 tags:
   - veikali
   - uznemumi
-  - jaunumi
+
 url: https://dts.lv
 card_image: /dts.lv.webp
 ---

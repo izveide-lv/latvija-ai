@@ -1,7 +1,7 @@
 ---
 tags:
   - uznemumi
-  - jaunumi
+
 url: https://ocvision.eu
 card_image: /ocvision.eu.webp
 ---

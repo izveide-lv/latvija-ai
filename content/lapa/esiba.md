@@ -1,7 +1,7 @@
 ---
 tags:
   - profesionali
-  - jaunumi
+
   - pakalpojumi
 url: https://esiba.lv
 card_image: /esiba.lv.webp

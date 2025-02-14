@@ -1,7 +1,7 @@
 ---
 tags:
   - pakalpojumi
-  - jaunumi
+
 url: https://dzirdesparbaude.lv
 card_image: /dzirdesparbaude.lv.webp
 ---

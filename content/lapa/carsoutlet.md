@@ -2,7 +2,7 @@
 tags:
   - uznemumi
   - veikali
-  - jaunumi
+
 url: https://carsoutlet.lv
 card_image: /carsoutlet.lv.webp
 ---

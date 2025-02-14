@@ -2,7 +2,7 @@
 tags:
   - pakalpojumi
   - uznemumi
-  - jaunumi
+
 url: https://infigo.lv
 card_image: /infigo.lv.webp
 ---

@@ -2,7 +2,7 @@
 tags:
   - pakalpojumi
   - uznemumi
-  - jaunumi
+
 url: https://audit.lv
 card_image: /audit.lv.webp
 ---

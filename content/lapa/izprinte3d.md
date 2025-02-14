@@ -2,7 +2,7 @@
 tags:
   - pakalpojumi
   - uznemumi
-  - jaunumi
+
 url: https://izprinte3d.lv
 card_image: /izprinte3d.lv.webp
 ---

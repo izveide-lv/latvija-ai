@@ -14,8 +14,8 @@ export default defineAppConfig({
     description: "",
     url: "https://latvija.ai",
     favicon: {
-      image: "",
-      emoji: "❤️‍🩹",
+      image: "/favicon.webp",
+      emoji: "",
     },
   },
   directory: {
@@ -54,17 +54,20 @@ export default defineAppConfig({
       showOnAllPages: true,
       showOnSide: true,
       icon: "tabler:star",
-      labelForCard: "💯",
+      labelForCard: "Izceltie 💯",
     },
     tags: [
-      { name: "populari", prettyName: "⚡ Populāri", color: "orange" },
       { name: "jaunumi", prettyName: "🆕 Jaunumi", color: "orange" },
+      { name: "populari", prettyName: "⚡ Populāri", color: "orange" },
+      { name: "organizacijas", prettyName: "🪴 Organizācijas", color: "teal" },
       { name: "pakalpojumi", prettyName: "🤝 Pakalpojumi", color: "orange" },
       { name: "profesionali", prettyName: "👨‍🔬 Profesionāļi", color: "teal" },
       { name: "uznemumi", prettyName: "🏢 Uzņēmumi", color: "red" },
       { name: "veikali", prettyName: "🛒 Veikali", color: "blue" },
       { name: "blogi", prettyName: "📃 Blogi", color: "green" },
       { name: "riki", prettyName: "🧰 Rīki", color: "yellow" },
+      { name: "citi", prettyName: "🎲 Citi", color: "yellow" },
+
       
     ],
     tagPages: {

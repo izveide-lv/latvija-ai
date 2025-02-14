@@ -4,6 +4,13 @@ description: Informācija par atjauninājumiem Latvija.ai lapā
 title: Jaunumi
 ---
 
+# Jaunumi
+
+## 14.02.2025
+
+- Katalogam pievienotas [34 lapas](/tags/jaunumi), kopā sasniedzot **137** ➕
+- Izveidotas divas jaunas kategorijas — [🪴 Organizācijas](/tags/organizacijas) un [🎲 Citi](/tags/citi)
+
 ## 13.02.2025
 
 - Izveidotas divas jaunas kategorijas — [⚡ Populāri](/tags/populari) un [🆕 Jaunumi](/tags/jaunumi)

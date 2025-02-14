@@ -2,7 +2,7 @@
 tags:
   - veikali
   - uznemumi
-  - jaunumi
+
 url: https://calme.lv
 card_image: /calme.lv.webp
 ---

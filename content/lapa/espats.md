@@ -1,7 +1,7 @@
 ---
 tags:
   - veikali
-  - jaunumi
+
   - pakalpojumi
   - blogi
 url: https://espats.lv

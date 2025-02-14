@@ -2,7 +2,7 @@
 tags:
   - uznemumi
   - veikali
-  - jaunumi
+
 url: https://autoselect.lv
 card_image: /autoselect.lv.webp
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - riki
-  - jaunumi
+
 url: https://pitchpatterns.com
 card_image: /pitchpatterns.com.webp
 ---

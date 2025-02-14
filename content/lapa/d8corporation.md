@@ -2,7 +2,7 @@
 tags:
   - pakalpojumi
   - uznemumi
-  - jaunumi
+
 url: https://d8corporation.com
 card_image: /d8corporation.com.webp
 ---
