@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - pakalpojumi
 url: https://e-car.lv
 card_image: /e-car.lv.webp

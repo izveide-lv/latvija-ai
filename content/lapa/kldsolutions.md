@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - uznemumi
   - pakalpojumi
 url: https://kldsolutions.lv

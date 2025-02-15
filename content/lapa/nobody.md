@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - blogi
   - profesionali
 url: https://nobody.lv

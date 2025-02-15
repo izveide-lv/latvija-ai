@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - blogi
   - citi
 url: https://resume.lv

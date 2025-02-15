@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
 url: https://sua.lv
 card_image: /sua.lv.webp

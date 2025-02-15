@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - uznemumi
   - veikali
 url: https://printeru-kartridzi.lv

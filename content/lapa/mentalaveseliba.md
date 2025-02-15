@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - citi
 url: https://mentalaveseliba.lv
 card_image: /mentalaveseliba.lv.webp

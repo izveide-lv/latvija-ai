@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
   - veikali
 url: https://augam.lv

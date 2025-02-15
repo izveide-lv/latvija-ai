@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
 url: https://gribupalidzetbegliem.lv
 card_image: /gribupalidzetbegliem.lv.webp

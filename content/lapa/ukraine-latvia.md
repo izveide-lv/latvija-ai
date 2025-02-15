@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - citi
 url: https://ukraine-latvia.com
 card_image: /ukraine-latvia.com.webp

@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
   - citi
 url: https://neapedzemeslodi.lv

@@ -54,7 +54,7 @@ export default defineAppConfig({
       showOnAllPages: true,
       showOnSide: true,
       icon: "tabler:star",
-      labelForCard: "Izceltie 💯",
+      labelForCard: "💯",
     },
     tags: [
       { name: "jaunumi", prettyName: "🆕 Jaunumi", color: "orange" },
@@ -79,7 +79,7 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Piesakies labāko piedāvājumu saņemšanai e-pastā!",
+      text: "Reģistrē savu e-pastu labāko piedāvājumu saņemšanai un laimē 50€!",
       link: "https://omnis.lv",
       brandText: "Jaunums",
     },

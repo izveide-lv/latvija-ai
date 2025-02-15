@@ -14,20 +14,23 @@ Dalība katalogā ir **bez maksas**, taču tiek piedāvātas arī reklāmas iesp
 
 ## Mājaslapas izcēlums
 
-Par **dinamisku cenu\***, kas šobrīd ir **10€/mēnesī**, iespējams iegūt īpašu atzīmi pie savas mājaslapas un rādīt to katalogā kā **vienu no pirmajām**. Mājaslapas, kas atrodas kataloga augšpusē, **saņem vairāk klikšķu un skatījumu**.
+Par **dinamisku cenu\***, kas šobrīd ir **20€/mēnesī**, iespējams iegūt īpašu atzīmi pie savas mājaslapas un rādīt to katalogā kā **vienu no pirmajām**. Mājaslapas, kas atrodas kataloga augšpusē, **saņem vairāk klikšķu un skatījumu**.
 
 **\*Dinamiskās cenas** princips — lai katalogs nesastāvētu tikai no izceltajām lapām un lai novērtētu agrīnos projekta atbalstītājus, **katra nākamā izceltā mājaslapa maksā par 10€/mēnesī dārgāk**, nekā iepriekšējā.
 
-#### Spēkā esošie izcēlumi
+<section id="izcelumi"></section>
 
-1. [Omnis](/lapa/omnis) — **bezmaksas izcēlums**, projekta autora mājaslapa
-2. 10€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
+#### Spēkā esošie izcēlumi
 
 :FeatureExample
 
+1. [Omnis](/lapa/omnis) — **bezmaksas izcēlums**, projekta autora mājaslapa.
+2. [Inta Valkovska](/lapa/esiba) — izcēlums spēkā līdz **15.02.2026**.
+3. 20€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
+
 ## Sadarbības
 
-Izcēlumu iespējams iegūt arī **bez maksas**, ja apmeklētājiem no **Latvija.ai** tiek piedāvāti kādi īpaši nosacījumi, piemēram, **atlaides**, **bezmaksas produkts** vai **izmēģinājuma periods**. Lai vienotos par sadarbību, [aizpildiet pieteikuma formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
+Izcēlumu iespējams iegūt **ar atlaidi**, ja apmeklētājiem no **Latvija.ai** tiek piedāvāti kādi īpaši nosacījumi, piemēram, **atlaides**, **bezmaksas produkts** vai **izmēģinājuma periods**. Lai vienotos par sadarbību, [aizpildiet pieteikuma formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
 
 ## Reklāmkarogs
 

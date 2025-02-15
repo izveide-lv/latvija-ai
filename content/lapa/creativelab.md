@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - profesionali
   - blogi
   - pakalpojumi

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "template": "[[workspace]]/.frontmatter/templates/lapa.md",
+      "fields": [
+        {
+          "title": "featured",
+          "name": "featured",
+          "type": "boolean",
+          "default": false
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags",
+          "default": "jaunumi"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string",
+          "default": "https://"
+        },
+        {
+          "title": "card_image",
+          "name": "card_image",
+          "type": "image",
+          "isPreviewImage": true
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "nuxt",
+  "frontMatter.content.publicFolder": {
+    "path": "public",
+    "relative": false
+  },
+  "frontMatter.media.contentTypes": [
+    {
+      "name": "default",
+      "fileTypes": [
+        ".webp"
+      ]
+    }
+  ],
+  "frontMatter.preview.host": "http://localhost:3000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "lapa",
+      "path": "[[workspace]]/content/lapa",
+      "contentTypes": [
+        "default"
+      ],
+      "filePrefix": null
+    }
+  ]
+}

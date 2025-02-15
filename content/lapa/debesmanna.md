@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
 url: https://debesmanna.com
 card_image: /debesmanna.com.webp

@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - pakalpojumi
 url: https://bild.lv
 card_image: /bild.lv.webp

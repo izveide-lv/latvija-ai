@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - profesionali
   - pakalpojumi
 url: https://taplink.cc/suzannatihonova

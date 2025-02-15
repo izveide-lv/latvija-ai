@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
 url: https://dzivniekubriviba.lv
 card_image: /dzivniekubriviba.lv.webp

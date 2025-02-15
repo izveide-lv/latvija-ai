@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - citi
   - veikali
 url: https://bizevala.lv

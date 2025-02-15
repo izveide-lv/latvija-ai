@@ -6,10 +6,17 @@ title: Jaunumi
 
 # Jaunumi
 
+## 15.02.2025
+
+- Katalogam pievienotas [17 lapas](/tags/jaunumi) 🚀
+- Ir veikts pirmais [lapas izcēlums](/reklama/#izcelumi), attiecīgi nākamā izcēluma cena ir cēlusies 💸
+
 ## 14.02.2025
 
-- Katalogam pievienotas [35 lapas](/tags/jaunumi), kopā sasniedzot **138** ➕
+- Katalogam pievienotas [34 lapas](/tags/jaunumi), kopā sasniedzot **138** ➕
 - Izveidotas divas jaunas kategorijas — [🪴 Organizācijas](/tags/organizacijas) un [🎲 Citi](/tags/citi)
+- Labs of Latvia publicēta preses relīze — [Digitālā platforma Latvija.ai apvieno vietējos interneta resursus](https://labsoflatvia.com/aktuali/digitala-platforma-latvija-ai-apvieno-vietejos-interneta-resursus)
+- Relīze publicēta arī Otkrito — [В Латвии создана новая цифровая платформа Latvija.ai: почему она будет полезна всем жителям?](https://rus.jauns.lv/article/novosti/641359-v-latvii-sozdana-novaia-cifrovaia-platforma-latvijaai-pocemu-ona-budet-polezna-vsem-ziteliam)
 
 ## 13.02.2025
 
