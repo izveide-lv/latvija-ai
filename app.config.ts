@@ -90,6 +90,11 @@ export default defineAppConfig({
         { name: "Jaunumi", to: "/jaunumi" },
         { name: "Reklāma", to: "/reklama" },
         {
+          name: "Blogs",
+          to: "https://blog.latvija.ai",
+          target: "_blank",
+        },
+        {
           name: "Statistika",
           to: "https://stats.izveide.lv/share/bRVSIFNOk3q0Kk40/latvija.ai",
           target: "_blank",
