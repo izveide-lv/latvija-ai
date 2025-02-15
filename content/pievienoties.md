@@ -7,7 +7,7 @@ cover: /latvija.ai.webp
 # Iegūsti jaunus klientus, pievienojoties modernākajam mājaslapu katalogam
 
 Mājaslapas pievienošana katalogam ir bez maksas, **taču ne visas iesūtītās mājaslapas tiks publicētas**.
-Katra mājaslapa iesūtītā mājaslapa tiks individuāli izvērtēta, pārbaudot, vai tā:
+Katra iesūtītā mājaslapa tiks individuāli izvērtēta, pārbaudot, vai tā:
 
 - Ir ērta lietošanā
 - Ir draudzīga mobilajām ierīcēm
