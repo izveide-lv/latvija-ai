@@ -120,7 +120,7 @@ const navigation = [
       >
         <p class="text-xs leading-5 text-gray-500">
           &copy; {{ new Date().getFullYear() }}
-          <a href="https://labojam.lv" class="font-semibold" target="_blank"
+          <a href="https://socialais.dev" class="font-semibold" target="_blank"
             >Sociālais kods</a
           >. E-pasts:
           <a href="mailto:latvija@latvija.ai" class="font-semibold"
