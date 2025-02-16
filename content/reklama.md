@@ -8,7 +8,7 @@ title: Reklāma
 # Reklāma
 
 #description
-Dalība katalogā ir **bez maksas**, taču tiek piedāvātas arī reklāmas iespējas. **Katrs trešais kataloga apmeklētājs atver vismaz vienu mājaslapu** — tas ir daudz labāks atdeves rādītājs, nekā vidējām Google vai Meta reklāmām.
+Dalība katalogā ir **bez maksas**, taču tiek piedāvātas arī reklāmas iespējas. **Katrs otrais kataloga apmeklētājs atver vismaz vienu mājaslapu** — tas ir daudz labāks atdeves rādītājs, nekā vidējām Google vai Meta reklāmām.
 
 ::
 
