@@ -38,6 +38,14 @@ Izcēlumu iespējams iegūt **ar atlaidi**, ja apmeklētājiem no **Latvija.ai**
 
 :SponsorExample{title="Tiec pie bezmaksas mājaslapas!" description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim." url="https://izveide.lv/bezmaksas"}
 
+## Reklāmraksts Latvija.ai blogā
+
+Par vienreizēju maksājumu **30€ apmērā** iespējams ievietot reklāmrakstu [Latvija.ai blogā](https://blog.latvija.ai). [Pieteikšanās caur formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
+
+## Komplekts
+
+Iespējams arī apvienot vairākus reklāmas veidus **ar īpaši izdevīgiem nosacījumiem**. [Pieteikšanās caur formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
+
 ## Atbalsts un ziedojumi
 
 Šis ir **jauns projekts**, kurā **katru dienu** tiek ieguldītas vairākas stundas **neapmaksāta darba**. Ja tev tas bijis noderīgs un **vēlies atbalstīt tā tālāku attīstību**, ir iespējams **veikt nepastarpinātu ziedojumu** projekta autoram vietnē [ko-fi.com/armands](https://ko-fi.com/armands).

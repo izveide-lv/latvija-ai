@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - veikali
   - blogi
 url: https://udenszale.lv

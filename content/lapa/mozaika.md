@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
 url: https://mozaika.lv
 card_image: /mozaika.lv.webp

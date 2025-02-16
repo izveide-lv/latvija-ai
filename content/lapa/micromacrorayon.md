@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - blogi
 url: https://micromacrorayon.com
 card_image: /micromacrorayon.com.webp

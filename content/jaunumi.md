@@ -6,6 +6,11 @@ title: Jaunumi
 
 # Jaunumi
 
+## 16.02.2025
+
+- Katalogam pievienotas [13 lapas](/tags/jaunumi) 🆕
+- Atjaunots [Latvija.ai blogs](https://blog.latvija.ai)
+
 ## 15.02.2025
 
 - Katalogam pievienotas [17 lapas](/tags/jaunumi) 🚀

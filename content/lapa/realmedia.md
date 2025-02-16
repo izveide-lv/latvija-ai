@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - uznemumi
   - pakalpojumi
 url: https://realmedia.lv

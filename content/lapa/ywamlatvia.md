@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
 url: https://ywamlatvia.org
 card_image: /ywamlatvia.org.webp

@@ -127,7 +127,18 @@ const navigation = [
             >latvija@latvija.ai</a
           >
         </p>
-        <p class="text-xs leading-5 text-gray-500"></p>
+        <!-- <div class="max-w-lg mt-2">
+          <component
+            :is="'script'"
+            src="https://cdn.jsdelivr.net/ghost/signup-form@~0.2/umd/signup-form.min.js"
+            data-label-1="katalogs"
+            data-button-color="#A4343A"
+            data-button-text-color="#FFFFFF"
+            data-site="https://blog.latvija.ai/"
+            data-locale="lv"
+            async
+          />
+        </div> -->
       </div>
     </div>
   </footer>
