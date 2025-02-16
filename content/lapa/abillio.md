@@ -7,6 +7,6 @@ url: https://abill.io
 card_image: /abill.io.webp
 ---
 
-# Frīlance darbu norēķini
+# Abillio
 
 Rēķinu izrakstīšanas rīks bez nepieciešamības dibināt uzņēmumu
