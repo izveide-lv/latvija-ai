@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - pakalpojumi
 url: https://mebeluizvesana.lv
 card_image: /mebeluizvesana.lv.webp

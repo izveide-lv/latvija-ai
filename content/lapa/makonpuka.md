@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - pakalpojumi
   - uznemumi
 url: https://makonpuka.lv

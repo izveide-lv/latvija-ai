@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - pakalpojumi
 url: https://evisit.eu
 card_image: /evisit.eu.webp

@@ -1,7 +1,7 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
+  - citi
   - blogi
 url: https://tiek.lv
 card_image: /tiek.lv.webp

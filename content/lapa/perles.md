@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - veikali
   - uznemumi
 url: https://perles.lv

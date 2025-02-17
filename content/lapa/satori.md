@@ -1,7 +1,7 @@
 ---
 tags:
   - blogi
-  - jaunumi
+
   - organizacijas
   - veikali
 url: https://satori.lv
