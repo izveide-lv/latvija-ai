@@ -15,7 +15,7 @@ const emit = defineEmits<{
     content-transition="vfm-fade"
   >
     <button
-      class="shadow ml-auto px-2 py-1 border rounded text-sm font-semibold"
+      class="shadow ml-auto px-2 py-1 border rounded text-sm font-semibold dark:text-white"
       @click="emit('confirm')"
     >
       Aizvērt
