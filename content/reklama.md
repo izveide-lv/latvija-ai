@@ -3,14 +3,9 @@ layout: default
 title: Reklāma
 ---
 
-::center-hero
-
 # Reklāma
 
-#description
 Dalība katalogā ir **bez maksas**, taču tiek piedāvātas arī reklāmas iespējas. **Katrs otrais kataloga apmeklētājs atver vismaz vienu mājaslapu** — tas ir daudz labāks atdeves rādītājs, nekā vidējām Google vai Meta reklāmām.
-
-::
 
 ## Mājaslapas izcēlums
 
@@ -45,11 +40,3 @@ Par vienreizēju maksājumu **30€ apmērā** iespējams ievietot reklāmrakstu
 ## Komplekts
 
 Iespējams arī apvienot vairākus reklāmas veidus **ar īpaši izdevīgiem nosacījumiem**. [Pieteikšanās caur formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
-
-## Atbalsts un ziedojumi
-
-Šis ir **jauns projekts**, kurā **katru dienu** tiek ieguldītas vairākas stundas **neapmaksāta darba**. Ja tev tas bijis noderīgs un **vēlies atbalstīt tā tālāku attīstību**, ir iespējams **veikt nepastarpinātu ziedojumu** projekta autoram vietnē [ko-fi.com/armands](https://ko-fi.com/armands).
-
-#### Atbalstītāju saraksts 🧡
-
-- **10€** — Indra Lielkāja, [Adventures in Ethiopia](/lapa/adventuresinethiopia)

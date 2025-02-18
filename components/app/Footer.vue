@@ -14,7 +14,13 @@ const navigation = [
     links: [
       { title: "Pievienoties", link: "/pievienoties" },
       { title: "Jaunumi", link: "/jaunumi" },
+      { title: "Atbalsts", link: "/atbalsts" },
       { title: "Reklāma", link: "/reklama" },
+      { title: "Blogs", link: "https://blog.latvija.ai" },
+      {
+        title: "Statistika",
+        link: "https://stats.izveide.lv/share/bRVSIFNOk3q0Kk40/latvija.ai",
+      },
     ],
   },
   {
@@ -41,10 +47,7 @@ const navigation = [
   },
   {
     title: "Informācija",
-    links: [
-      { title: "Privātuma politika", link: "/legal/privatuma-politika" },
-      { title: "Blogs", link: "https://blog.latvija.ai" },
-    ],
+    links: [{ title: "Privātuma politika", link: "/legal/privatuma-politika" }],
   },
 ];
 </script>

@@ -88,6 +88,7 @@ export default defineAppConfig({
       links: [
         { name: "Katalogs", to: "/" },
         { name: "Jaunumi", to: "/jaunumi" },
+        { name: "Atbalsts", to: "/atbalsts" },
         { name: "Reklāma", to: "/reklama" },
         {
           name: "Blogs",

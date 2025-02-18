@@ -4,17 +4,13 @@ const { layout } = useContent();
 const layoutName = computed(() => layout.value || "wide");
 </script>
 
-<template>
-  <AppLayout>
-    <NuxtLayout :name="layoutName">
-      <NuxtPage class="page-enter-active" />
-    </NuxtLayout>
-  </AppLayout>
-</template>
-
 <style>
 .dark body {
   @apply bg-gray-800;
+}
+
+html:not(.dark) .prose {
+  --tw-prose-pre-code: rgb(4, 0, 0);
 }
 
 @keyframes fadeInUp {
@@ -48,3 +44,11 @@ const layoutName = computed(() => layout.value || "wide");
   animation: fadeOutDown 0.6s backwards;
 }
 </style>
+
+<template>
+  <AppLayout>
+    <NuxtLayout :name="layoutName">
+      <NuxtPage class="page-enter-active" />
+    </NuxtLayout>
+  </AppLayout>
+</template>
