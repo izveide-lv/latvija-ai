@@ -5,7 +5,7 @@ const search: Ref<string> = useState("search");
 const tags: Ref<string[]> = useState("tags");
 
 const { data } = await useDirectory();
-
+let incrementKey = 0;
 const directoryListings = computed(() => {
   let filteredData = data.value;
 
@@ -21,12 +21,14 @@ const directoryListings = computed(() => {
         e.url?.toLowerCase()
       ).includes(search.value.toLowerCase())
     );
+    incrementKey++;
   }
 
   if (tags.value.length > 0) {
     filteredData = filteredData?.filter((e) =>
       tags.value.every((tag) => e.tags?.includes(tag))
     );
+    incrementKey++;
   }
 
   return filteredData;
@@ -44,5 +46,6 @@ const directoryListings = computed(() => {
     :listings="directoryListings ?? []"
     :show-submit="config?.submit?.show"
     :submit-first="config?.submit?.first"
+    :key="incrementKey"
   />
 </template>

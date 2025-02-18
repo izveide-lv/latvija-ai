@@ -11,6 +11,7 @@ title: Jaunumi
 - Katalogam pievienotas [9 lapas](/tags/jaunumi) 🆕
 - Kopš kataloga atklāšanas pagājušajā nedēļā, to apmeklējuši **vairāk nekā 2000** cilvēku, kopā uzklikšķinot uz **vairāk nekā 1000** lapām! 🚀
 - Pievienota jauna lapa [Atbalsts](/atbalsts)
+- Izveidota iespēja atstāt atsauksmes ⭐
 
 ## 16.02.2025
 

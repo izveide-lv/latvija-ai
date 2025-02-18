@@ -14,6 +14,9 @@ export default defineNuxtConfig({
     "@nuxt/fonts",
   ],
 
+  css: ['vue-final-modal/style.css'],
+
+
   colorMode: {
     classSuffix: "",
   },
