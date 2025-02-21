@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - riki
 url: https://buvnieks.com
 card_image: /buvnieks.com.webp

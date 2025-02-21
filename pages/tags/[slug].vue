@@ -55,6 +55,7 @@ definePageMeta({
 <template>
   <div class="">
     <h1>{{ getPrettyTagName(title) }}</h1>
+    <br />
     <DirectoryPureGrid :listings="data as unknown as ListingContent[]" />
     <br />
     <NuxtLink class="pt-12 mt-4 text-md" to="/"

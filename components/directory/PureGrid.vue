@@ -17,7 +17,7 @@ defineProps({
 
 <template>
   <div
-    class="not-prose grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4"
+    class="not-prose pt-1 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4"
   >
     <DirectoryEmptyQueryIndicator v-if="listings?.length === 0" />
     <DirectorySubmitBox v-if="showSubmit && submitFirst" />

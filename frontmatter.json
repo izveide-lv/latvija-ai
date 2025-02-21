@@ -8,12 +8,6 @@
       "template": "[[workspace]]/.frontmatter/templates/lapa.md",
       "fields": [
         {
-          "title": "featured",
-          "name": "featured",
-          "type": "boolean",
-          "default": false
-        },
-        {
           "title": "tags",
           "name": "tags",
           "type": "tags",

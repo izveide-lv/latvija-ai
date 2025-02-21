@@ -6,6 +6,10 @@ title: Jaunumi
 
 # Jaunumi
 
+## 21.02.2025
+
+- Katalogam pievienotas [5 lapas](/tags/jaunumi) 🆕
+
 ## 18.02.2025
 
 - Katalogam pievienotas [9 lapas](/tags/jaunumi) 🆕

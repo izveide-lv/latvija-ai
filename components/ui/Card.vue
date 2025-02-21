@@ -23,7 +23,7 @@ const { open, close } = useModal({
   <ModalsContainer />
   <div class="relative mb-9">
     <button
-      class="absolute left-0 -top-8 font-semibold px-2 py-1 rounded-md shadow-sm text-sm hover:bg-primary-50 hover:text-primary-900 dark:hover:text-white dark:hover:bg-gray-700 transition-all"
+      class="absolute left-0 shadow-sm border -top-8 font-semibold px-2 py-1 rounded-md text-sm hover:bg-primary-50 hover:text-primary-900 dark:hover:text-white dark:hover:bg-gray-700 transition-all"
       @click="() => open()"
     >
       ⭐ Atsauksmes

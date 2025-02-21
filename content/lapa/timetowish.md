@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - riki
 url: https://timetowish.com
 card_image: /timetowish.com.webp
