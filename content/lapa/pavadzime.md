@@ -1,7 +1,6 @@
 ---
 tags:
   - riki
-  - populari
 url: https://pavadzime.lv
 card_image: /pavadzime.lv.webp
 ---

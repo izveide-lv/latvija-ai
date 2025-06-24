@@ -78,10 +78,10 @@ export default defineAppConfig({
   },
   header: {
     banner: {
-      show: true,
-      text: "Reģistrē savu e-pastu labāko piedāvājumu saņemšanai un laimē 50€!",
-      link: "https://omnis.lv",
-      brandText: "Jaunums",
+      show: false,
+      text: "Apskati arī mūsu blogu! 📰",
+      link: "https://blog.latvija.ai",
+      brandText: "Interesanti",
     },
     navbar: {
       colorModeSelector: true,

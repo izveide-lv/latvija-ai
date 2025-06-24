@@ -1,7 +1,6 @@
 ---
 tags:
   - riki
-  - populari
 url: https://lieks.lv
 card_image: /lieks.lv.webp
 ---

@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - riki
 url: https://mixprice.lv
 card_image: /mixprice.lv.webp

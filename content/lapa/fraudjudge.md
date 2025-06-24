@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - riki
 url: https://fraudjudge.com
 card_image: /fraudjudge.com.webp

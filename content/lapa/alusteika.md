@@ -2,7 +2,6 @@
 tags:
   - uznemumi
   - veikali
-  - populari
 url: https://alusteika.lv
 card_image: /alusteika.lv.webp
 ---

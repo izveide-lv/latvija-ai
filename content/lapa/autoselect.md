@@ -2,7 +2,6 @@
 tags:
   - uznemumi
   - veikali
-  - populari
 url: https://autoselect.lv
 card_image: /autoselect.lv.webp
 ---

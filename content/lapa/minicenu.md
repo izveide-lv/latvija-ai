@@ -1,6 +1,7 @@
 ---
 tags:
   - riki
+  - populari
 url: https://minicenu.lv
 card_image: /minicenu.lv.webp
 ---

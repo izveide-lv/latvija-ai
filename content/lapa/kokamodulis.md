@@ -2,7 +2,6 @@
 tags:
   - veikali
   - uznemumi
-  - populari
 url: https://kokamodulis.lv
 card_image: /kokamodulis.lv.webp
 ---

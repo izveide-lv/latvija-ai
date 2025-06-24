@@ -3,7 +3,6 @@ tags:
   - pakalpojumi
   - uznemumi
   - blogi
-  - populari
 url: https://izveide.lv
 card_image: /izveide.lv.webp
 ---

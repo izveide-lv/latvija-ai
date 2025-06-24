@@ -19,7 +19,7 @@ Par **dinamisku cenu\***, kas šobrīd ir **20€/mēnesī**, iespējams iegūt 
 
 :FeatureExample
 
-1. [Omnis](/lapa/omnis) — **bezmaksas izcēlums**, projekta autora mājaslapa.
+1. [Latvijas ziņas](/lapa/zinas) — **bezmaksas izcēlums**, projekta autora mājaslapa.
 2. [Inta Valkovska](/lapa/esiba) — izcēlums spēkā līdz **15.02.2026**.
 3. 20€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
 
@@ -31,7 +31,7 @@ Izcēlumu iespējams iegūt **ar atlaidi**, ja apmeklētājiem no **Latvija.ai**
 
 **Atsevišķi vienojoties** par cenu un rādīšanas ilgumu, ir iespējams iegūt reklāmas vietu ar **redzamību visās lapās**. [Pieteikšanās caur formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
 
-:SponsorExample{title="Tiec pie bezmaksas mājaslapas!" description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim." url="https://izveide.lv/bezmaksas"}
+:SponsorExample{title="Apskati mūsu blogu! 📰" description="Blogā atradīsi rakstus par tehnoloģijām un interesantus faktus par Latviju" url="https://blog.latvija.ai"}
 
 ## Reklāmraksts Latvija.ai blogā
 

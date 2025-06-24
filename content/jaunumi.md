@@ -6,6 +6,15 @@ title: Jaunumi
 
 # Jaunumi
 
+## 24.06.2025
+
+- Katalogam pievienotas [23 lapas](/tags/jaunumi) 🆕, kopā pārsniedzot jau 200! 🚀
+- Atjaunota kategorija [Populāri](/tags/populari), ņemot vērā pēdējo 90 dienu statistiku
+
+## 23.02.2025
+
+- Dienas Biznesā publicēts sadarbības materiāls [Latvijā radīts jauns mājaslapu katalogs Latvija.ai](https://www.db.lv/zinas/latvija-radits-jauns-majaslapu-katalogs-latvijaai-520223)
+
 ## 21.02.2025
 
 - Katalogam pievienotas [5 lapas](/tags/jaunumi) 🆕
@@ -49,4 +58,4 @@ title: Jaunumi
 
 - Kataloga atklāšana 🥳
 
-:SponsorExample{title="Tiec pie bezmaksas mājaslapas!" description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim." url="https://izveide.lv/bezmaksas"}
+:SponsorExample{title="Apskati mūsu blogu! 📰" description="Blogā atradīsi rakstus par tehnoloģijām un interesantus faktus par Latviju" url="https://blog.latvija.ai"}

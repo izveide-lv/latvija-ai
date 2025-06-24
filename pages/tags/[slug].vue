@@ -63,9 +63,9 @@ definePageMeta({
     >
 
     <SponsorExample
-      title="Tiec pie bezmaksas mājaslapas!"
-      description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim."
-      url="https://izveide.lv/bezmaksas"
+      title="Apskati mūsu blogu! 📰"
+      description="Blogā atradīsi rakstus par tehnoloģijām un interesantus faktus par Latviju"
+      url="https://blog.latvija.ai"
     ></SponsorExample>
   </div>
 </template>

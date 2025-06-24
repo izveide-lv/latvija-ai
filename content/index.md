@@ -13,4 +13,4 @@ cover: /latvija.ai.webp
 ::directory-grid
 ::
 
-:SponsorExample{title="Tiec pie bezmaksas mājaslapas!" description="Tiec pie ⚡ ātras un 🔐 drošas mājaslapas pilnīgi bez maksas! Pieteikšanās līdz 28. februārim." url="https://izveide.lv/bezmaksas"}
+:SponsorExample{title="Apskati mūsu blogu! 📰" description="Blogā atradīsi rakstus par tehnoloģijām un interesantus faktus par Latviju" url="https://blog.latvija.ai"}

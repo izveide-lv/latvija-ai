@@ -2,7 +2,6 @@
 tags:
   - profesionali
   - pakalpojumi
-  - populari
 url: https://billijs.lv
 card_image: /billijs.lv.webp
 ---
