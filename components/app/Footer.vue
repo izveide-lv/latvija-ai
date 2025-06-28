@@ -40,9 +40,9 @@ const navigation = [
       { title: "Mājaslapu labošana", link: "https://labojam.lv" },
       {
         title: "Mājaslapu novērtēšana",
-        link: "https://cep.izveide.lv",
+        link: "https://lapa.page",
       },
-      { title: "Darba sludinājumi", link: "https://darbs.latvija.ai" },
+      { title: "Latvijas ziņas", link: "https://zinas.news" },
     ],
   },
   {

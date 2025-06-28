@@ -13,7 +13,7 @@ Katra iesūtītā mājaslapa tiks individuāli izvērtēta, pārbaudot, vai tā:
 - Ir draudzīga mobilajām ierīcēm
 - Nesatur daudz reklāmu vai nelegālu saturu
 
-Ja nezini, vai tava mājaslapa atbilst šiem kritērijiem, vari pieteikties <a href="https://cep.izveide.lv" target="_blank">bezmaksas mājaslapas novērtējumam</a>.
+Ja nezini, vai tava mājaslapa atbilst šiem kritērijiem, vari pieteikties <a href="https://lapa.page" target="_blank">bezmaksas mājaslapas novērtējumam</a>.
 
 ---
 
