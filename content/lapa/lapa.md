@@ -9,4 +9,4 @@ card_image: /lapa.page.webp
 
 # Mājaslapu novērtēšana
 
-Mākslīgā inteleketa veidots mājaslapas apskats
+Mākslīgā intelekta veidots mājaslapas apskats
