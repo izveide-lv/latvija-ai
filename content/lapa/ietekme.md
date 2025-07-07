@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - pakalpojumi
   - profesionali
 url: https://ietekme.lv

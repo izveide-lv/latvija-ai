@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - organizacijas
   - pakalpojumi
   - citi

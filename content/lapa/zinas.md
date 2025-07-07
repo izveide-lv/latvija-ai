@@ -2,7 +2,7 @@
 featured: true
 tags:
   - citi
-  - jaunumi
+
   - riki
   - blogi
 url: https://zinas.news

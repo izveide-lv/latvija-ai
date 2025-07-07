@@ -1,6 +1,5 @@
 ---
 tags:
-  - jaunumi
   - riki
   - uznemumi
   - pakalpojumi

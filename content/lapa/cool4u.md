@@ -1,7 +1,7 @@
 ---
 tags:
   - citi
-  - jaunumi
+
   - pakalpojumi
   - uznemumi
 url: https://cool4u.agency
