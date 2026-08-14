@@ -19,9 +19,7 @@ Par **dinamisku cenu\***, kas šobrīd ir **20€/mēnesī**, iespējams iegūt 
 
 :FeatureExample
 
-1. [Latvijas ziņas](/lapa/zinas) — **bezmaksas izcēlums**, projekta autora mājaslapa.
-2. [Inta Valkovska](/lapa/esiba) — izcēlums spēkā līdz **15.02.2026**.
-3. 20€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
+1. 20€/mēnesī — **pieejams**. Tam var pieteikties, [izmantojot šo formu](https://form.izveide.lv/reklama-latvija-ai-ELObTU).
 
 ## Sadarbības
 
